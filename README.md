@@ -13,6 +13,9 @@ I am a Creative Mobile Application Developer talented , lifelong learner, and ad
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymane330)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aymane-el-filali-0b82b2177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/foox22)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aymane330&show_icons=true&count_private=true)  
+[![ayel-fil's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcjrcl8b00250gmca597hkou/project/2885128)](https://github.com/JaeSeoKim/badge42)
+[![ayel-fil's 42 Libft Score](https://badge42.vercel.app/api/v2/clcjrcl8b00250gmca597hkou/project/2826059)](https://github.com/JaeSeoKim/badge42)
+[![ayel-fil's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clcjrcl8b00250gmca597hkou/project/2877031)](https://github.com/JaeSeoKim/badge42)
+[![ayel-fil's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clcjrcl8b00250gmca597hkou/project/2903863)](https://github.com/JaeSeoKim/badge42)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcjrcl8b00250gmca597hkou/stats?cursusId=21&coalitionId=73" alt="ayel-fil's 42 stats" /></a>
 
