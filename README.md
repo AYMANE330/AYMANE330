@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AYMANE EL FILLI</h1>
+<h1 align="center">Hi 👋, I'm AYMANE EL FILALI</h1>
 <h3 align="center">A passionate Mobile developer from Morocco</h3>
 <p1 align="center">
 I am a Creative Mobile Application Developer talented , lifelong learner, and adventurer with a professional background in software business strategy. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.</p1>
