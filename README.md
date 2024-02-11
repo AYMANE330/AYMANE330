@@ -1,15 +1,96 @@
-<h1 align="center">Hi 👋, I'm AYMANE EL FILALI</h1>
-<h3 align="center">A passionate Mobile developer from Morocco</h3>
-<p1 align="center">
-I am a Creative Mobile Application Developer talented , lifelong learner, and adventurer with a professional background in software business strategy. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.</p1>
- 
+# Greetings, Digital Explorers! 👨‍🚀 I'm Aymane El Filali
 
+## 🚀 Crafting the Future at 1337 School
 
+From the nuanced art of algorithms to the stunning visuals of interfaces, I'm on a voyage through the cosmic expanse of software engineering, propelled by curiosity and fueled by determination.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🛠 Artisan's Toolkit: My Mastery in Tech
+<p align="left">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+</a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</a>
+<a href="https://javascript.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+</a>
+<a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
+</a>
+<a href="https://typescript.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Typescript-3880FF?style=flat-square&logo=Typescript&logoColor=white" alt="Typescript" />
+</a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Sass-3880FF?style=flat-square&logo=Sass&logoColor=white" alt="Sass" />
+</a>
+<!-- Add more approved badges here -->
+</p>
 
-- 📫 How to reach me: contact@fooxcoder.me
+## 🌟 Current Learning Quests
 
+<p align="left">
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</a>
+<!-- Add more approved badges for design pattern if available -->
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymane330)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aymane-el-filali-0b82b2177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/foox22)  
+## 🌱 Germinating Ideas: My Aspirations
+
+<p align="left">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white" alt="Next.js" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/React-61DAfb?style=flat-square&logo=react&logoColor=white" alt="React" />
+</a>
+<!-- Add more approved badges here -->
+</p>
+
+## 🌐 Navigating the Social Cosmos:
+
+- 🖋️ Email me at [contact@fooxcoder.me](mailto:contact@fooxcoder.me)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/aymane-el-filali-0b82b2177/)
+- 👥 Collaborate on [GitHub](https://github.com/aymane330)
+
+## 📈 My Coding Chronicles:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aymane330&show_icons=true&theme=vision-friendly-dark&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymane330&layout=compact&theme=vision-friendly-dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aymane330&theme=dark&hide_border=true">
+</p>
