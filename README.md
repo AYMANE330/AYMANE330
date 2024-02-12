@@ -92,5 +92,4 @@ From the nuanced art of algorithms to the stunning visuals of interfaces, I'm on
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aymane330&show_icons=true&theme=vision-friendly-dark&hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymane330&layout=compact&theme=vision-friendly-dark&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aymane330&theme=dark&hide_border=true">
-</p>
+</p> 
