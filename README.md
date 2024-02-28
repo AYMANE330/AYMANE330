@@ -42,6 +42,9 @@ From the nuanced art of algorithms to the stunning visuals of interfaces, I'm on
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Sass-3880FF?style=flat-square&logo=Sass&logoColor=white" alt="Sass" />
 </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</a>
 <!-- Add more approved badges here -->
 </p>
 
@@ -50,9 +53,6 @@ From the nuanced art of algorithms to the stunning visuals of interfaces, I'm on
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
